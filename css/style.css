@@ -21,12 +21,12 @@ nav{
 }
 .logo{
 	color: white;
-	font-size: 35px;
+	font-size: 55px;
 	letter-spacing: 1px;
 	cursor: pointer;
 }
 span{
-	color: #00bff9;
+	color: #a7adaf;
 }
 nav ul li{
 	list-style-type: none;
